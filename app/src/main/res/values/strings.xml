@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Inventory</string>
+
+    <string name="screen1">What is Inventory</string>
+    <string name="screen2">Menu Inventory</string>
+    <string name="screen3">Quick and Easy Inventory</string>
+    <string name="screen1desc">Inventory is an application to enter laptop items</string>
+    <string name="screen2desc">My Inventory has Create, read, update and delete menus along with login and sign up</string>
+    <string name="screen3desc">My Inventory is very easy to use to enter items and store in an application</string>
+    <string name="startDesc">lets start my inventory app</string>
+
+
+    <string name="title_activity_sidebar">SidebarActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_setting">Settings</string>
+
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description">Represents an image view in the
+        item
+    </string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_about">About Us</string>
+
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
